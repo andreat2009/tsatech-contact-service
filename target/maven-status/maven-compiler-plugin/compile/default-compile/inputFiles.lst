@@ -1,0 +1,13 @@
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/ContactServiceApplication.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/config/SecurityConfig.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/controller/ContactMessageController.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/domain/ContactMessage.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/dto/ContactMessageRequest.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/dto/ContactMessageResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/error/ApiErrorResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/error/GlobalApiExceptionHandler.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/events/DomainEvent.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/events/EventPublisher.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/exception/NotFoundException.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/repository/ContactMessageRepository.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/contact-service/src/main/java/com/newproject/contact/service/ContactMessageService.java
